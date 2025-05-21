@@ -2,6 +2,7 @@ package operatorexample;
 
 public class Arithematic {
 
+	
 	 
 	void Multi (int x, int y) {
 		
@@ -21,5 +22,8 @@ public class Arithematic {
 		int g = e%f;
 		System.out.println("Modulus = " + g);
 	}
+	
+	
+	
 
 }

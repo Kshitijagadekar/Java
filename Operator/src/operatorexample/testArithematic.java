@@ -6,7 +6,7 @@ public class testArithematic {
 
 		Arithematic M = new Arithematic();
 		
-	M.Multi(5, 5);
+	M.Multi(50, 5);
 	M.Div(75, 2);
 	M.Modulu(75, 2);
 }
